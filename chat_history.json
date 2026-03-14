@@ -1,10 +1,34 @@
 [
   {
     "role": "user",
-    "content": "helo"
+    "content": "halo?"
   },
   {
     "role": "assistant",
-    "content": "Hello. How can I assist you today?"
+    "content": "Hello, how can I assist you today?"
+  },
+  {
+    "role": "user",
+    "content": "selamat sore"
+  },
+  {
+    "role": "assistant",
+    "content": "Selamat sore! Bagaimana hari Anda hari ini? Apakah ada yang bisa saya bantu?"
+  },
+  {
+    "role": "user",
+    "content": "tidak ada"
+  },
+  {
+    "role": "assistant",
+    "content": "Sama-sama, tidak masalah. Jika Anda ingin ngobrol atau butuh bantuan di lain waktu, jangan ragu untuk bertanya, ya! Selamat sore!"
+  },
+  {
+    "role": "user",
+    "content": "exit"
+  },
+  {
+    "role": "assistant",
+    "content": "Sampai jumpa lagi! Selamat sore!"
   }
 ]
